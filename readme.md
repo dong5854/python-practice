@@ -4,3 +4,4 @@
 
 1. [multiThreading](https://www.youtube.com/watch?v=IEEhzQoKtQU)
 2. [multiProcessing](https://www.youtube.com/watch?v=fKl2JW_qrso)
+3. [Comprehensions](https://www.youtube.com/watch?v=3dt4OGnU5sM)
