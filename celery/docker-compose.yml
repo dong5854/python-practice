@@ -1,0 +1,12 @@
+version: "3.9"
+services:
+  redis:
+    container_name: redis6379
+    image: redis
+    command:
+      - redis-server
+      - --port
+      -  "6379"
+    ports:
+      - "127.0.0.1:6379:6379"
+
